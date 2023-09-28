@@ -28,15 +28,15 @@ Il y a 5 règles à respecter avec les jsx
 # Okay, nice, mais on commence quand?
 Premièrement, il faut installer nodejs (voir le site). C'est supposé être fait.
 Ensuite, tu fais `npx create-next-app`. NPX c'est l'utilitaire global de téléchargement de librarie pour npm.
-Tu réponds aux questions :
-nom : test
-Utiliser TypeScript? :  Non (pour l'instant)
-ESLint? : Oui!
-Tailwind? : Non (sad face)
-src : Oui
-App router : Oui
-Import alias : Non
-Tadahhhhh
+## Tu réponds aux questions :
+- nom : test
+- Utiliser TypeScript? :  Non (pour l'instant)
+- ESLint? : Oui!
+- Tailwind? : Non (sad face)
+- src : Oui
+- App router : Oui
+- Import alias : Non
+- Tadahhhhh
 
 # C'est quoi npm?
 Npm est un gestionnaire de librarie. On va s'en servir pour ajouter des utilitaires qui ont été codés par d'autres personnes beaucoup plus talentueuses que nous.
